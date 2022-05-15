@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  title: 'Rock Blog',
+  author: 'Rock',
+  email: '1318642891@qq.com',
+  link: 'https://diligent-route-a9a.notion.site/Rock-s-Blog-6dc58e03ea594fbc99c7add1d96cee78',
+  description: 'Rock Blog For everyone',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
